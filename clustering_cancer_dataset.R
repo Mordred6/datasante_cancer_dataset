@@ -13,7 +13,7 @@ library(factoextra)
 library(tidyr)
 
 # Charger les données principales
-dataset_world_death <- read_csv("C:/!Etudes/A2/DataSanté/DatasetCancer/01 annual-number-of-deaths-by-cause.csv")
+dataset_world_death <- read_csv("/01 annual-number-of-deaths-by-cause.csv")
 
 # Charger une liste des pays reconnus
 countries <- read_csv("https://raw.githubusercontent.com/datasets/country-codes/master/data/country-codes.csv") %>%
