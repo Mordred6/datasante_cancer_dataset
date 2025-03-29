@@ -14,7 +14,7 @@ library(rnaturalearth)
 library(rnaturalearthdata)
 
 # Charger les données
-Dataset_world_death <- read.csv("C:/!Etudes/A2/DataSanté/DatasetCancer/01 annual-number-of-deaths-by-cause.csv")
+Dataset_world_death <- read.csv("/01 annual-number-of-deaths-by-cause.csv")
 
 # Vérifier les dimensions et les valeurs manquantes
 dim(Dataset_world_death)
