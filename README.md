@@ -1,12 +1,23 @@
-# datasante_cancer_dataset
-Projet Datasanté - Exploration d'un dataset sur le cancer - BARDOT Arthur
+# 📊 Projet Datasanté – Exploration d'un Dataset sur le Cancer  
+**Auteur :** Arthur BARDOT  
 
-Voici un Git contenant les fichiers utiles à mon projet d'exploration d'un dataset pour l'UE DataSanté.
+## 📌 Présentation du Projet  
+Ce projet a été réalisé dans le cadre de l’UE **DataSanté** et vise à explorer un dataset lié au cancer afin d’en extraire des insights pertinents.  
 
-Dans le fichier Diapo_projet_Datasanté.pdf vous allez pouvoir retrouver la présentation complète de mon projet avec les graphiques utiles, les méthodes utilisées et mon analyse peronnelle.
+La présentation détaillée du projet, comprenant **les graphiques, les méthodes utilisées et mon analyse**, est disponible dans le fichier **Diapo_projet_Datasanté.pdf**.  
 
-Le dataset que j'ai utilisé est le fichier 01 annual-number-of-deaths-by-cause.csv le lien se trouve également dans ma présentation.
-Le fichier lecture_cancer_dataset.R correspond au code R où j'ai pu faire la lecture du dataset et l'affichage de certaines statistiques.
-Le fichier clustering_cancer_dataset.R correspond au code R dans lequel j'ai effectué plusieurs transformations sur le dataset afin de l'analyser avec la méthode de clustering des k-means.
+## 📎 Contenu du dépôt  
+- **📄 01_annual-number-of-deaths-by-cause.csv**  
+  → Dataset utilisé (disponible via un lien dans la présentation).  
+- **📜 lecture_cancer_dataset.R**  
+  → Lecture du dataset et affichage de statistiques descriptives.  
+- **📜 clustering_cancer_dataset.R**  
+  → Transformations et analyse du dataset à l’aide du **clustering K-means**.  
 
-Il est à noter que le projet est inachevé, je souhaite développer un modèle de prédiction afin de prédire l'évolution du nombre de décès et/ou du taux de mortalité du cancer dans les années à venir.
+## 🚀 Perspectives d’évolution  
+Le projet est encore en cours de développement. Je prévois d’ajouter un **modèle de prédiction** pour estimer :  
+✔️ L’évolution du **nombre de décès** liés au cancer.  
+✔️ Le **taux de mortalité** dans les années à venir.  
+
+🔎 **Toute suggestion ou contribution est la bienvenue !**  
+
