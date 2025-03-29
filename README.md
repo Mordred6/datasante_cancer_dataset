@@ -2,6 +2,7 @@
 Projet Datasanté - Exploration d'un dataset sur le cancer - BARDOT Arthur
 
 Voici un Git contenant les fichiers utiles à mon projet d'exploration d'un dataset pour l'UE DataSanté.
+
 Dans le fichier Diapo_projet_Datasanté.pdf vous allez pouvoir retrouver la présentation complète de mon projet avec les graphiques utiles, les méthodes utilisées et mon analyse peronnelle.
 
 Le dataset que j'ai utilisé est le fichier 01 annual-number-of-deaths-by-cause.csv le lien se trouve également dans ma présentation.
