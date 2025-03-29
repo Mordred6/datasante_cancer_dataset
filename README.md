@@ -2,7 +2,7 @@
 **Auteur :** Arthur BARDOT  
 
 ## 📌 Présentation du Projet  
-Ce projet a été réalisé dans le cadre de l’UE **DataSanté** et vise à explorer un dataset lié au cancer afin d’en extraire des insights pertinents.  
+Ce projet a été réalisé dans le cadre de l’UE **DataSanté** et vise à explorer un dataset lié au cancer.  
 
 La présentation détaillée du projet, comprenant **les graphiques, les méthodes utilisées et mon analyse**, est disponible dans le fichier **Diapo_projet_Datasanté.pdf**.  
 
